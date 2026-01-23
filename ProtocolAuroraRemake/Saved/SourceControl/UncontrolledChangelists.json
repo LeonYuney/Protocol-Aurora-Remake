@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IH/6AC5KKMX2JQTMBRMPI2QXX.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/WL/M7MJFQ0T76JWU6F1Z7YH8J.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/1X/SN5R6LIXKDO3W51X1TVUTZ.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/SP/2T0RTK13XAOOIQD0QTXDQ9.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/3X/YJ94LSV2G9NAIYZIK96QLE.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/I5/5U3R0J6P3EIOET939AGA6V.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/U8/LL0QNHFPYL403X5YW0FGG6.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TO/58Y2HCG1B7M6VAJN1E38IS.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/2Y/6N3UPMDTFF7HWMCKCU36TS.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/2X/9S69RWNE148XO9CRQWZB6T.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XD/FETSOVXIHO2679RYSEWJL1.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/CN/YYX87IIEOGJGSTPW4VEI42.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/PD/MXZIKVLQCLY52D8J1D92LR.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/04/01U5L6GRZH64RVCFYSN0FO.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/BT/MG6S0J1C5RYVYZSU9Q5076.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/V9/TNMQNJZYZSKIUQZKF1MBAG.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/HP/P3ZY9R4V41KV4QKS60VNHS.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/LY/LBN0JV2VTFIOI5ZA9RFL7D.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/DA/52LK2Z76Z5E01KR6253GX9.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/V9/3VHYA0R5RPV7ON5MBVXRNK.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/FW/LH8AFBXPJOAK1Y4V2KP5ZN.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/UB/79YYGZEC9ESXRPDQPEV0FW.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/ER/GJUIXEEO8HUV9WZCSZR9GH.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/8O/BVYOAIREBMOAK7193TKE2N.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/D2/66RZ3E9MEBJPV125V7SWQ6.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IE/V64Z1BRZLIBJ1T22AK85P3.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/J3/JQWZC33CXMXDX87CAIWJ94.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/OC/25AUBU4QR9LG6MC486MT0G.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N9/X0538NNNRHH1IFSDY58JXG.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/DB/WUAG2BM7147RCOWLR2DERE.uasset",
+				"C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
