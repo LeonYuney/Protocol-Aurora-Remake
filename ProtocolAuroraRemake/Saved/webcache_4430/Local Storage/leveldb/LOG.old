@@ -1,3 +1,5 @@
-2026/01/27-13:03:38.899 380c Reusing MANIFEST C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/01/27-13:03:38.909 380c Recovering log #3
-2026/01/27-13:03:38.909 380c Reusing old log C:/Protocol_Aurora_Remaster/Protocol-Aurora-Remake/ProtocolAuroraRemake/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/02/01-14:11:50.321 4a44 Creating DB C:/Protocol_Aurora_Remaster/Новая папка/ProtocolAuroraRemake/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/02/01-14:11:50.335 4a44 Reusing MANIFEST C:/Protocol_Aurora_Remaster/Новая папка/ProtocolAuroraRemake/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/01-14:21:04.673 6f38 Level-0 table #5: started
+2026/02/01-14:21:04.676 6f38 Level-0 table #5: 73486 bytes OK
+2026/02/01-14:21:04.677 6f38 Delete type=0 #3
