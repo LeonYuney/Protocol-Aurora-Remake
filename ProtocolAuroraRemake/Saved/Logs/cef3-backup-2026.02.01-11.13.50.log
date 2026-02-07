@@ -1,4 +1,0 @@
-[0201/141150.656:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0201/141150.922:WARNING:storage_block-inl.h(146)] Failed data load.
-[0201/141151.590:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0201/141350.512:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
