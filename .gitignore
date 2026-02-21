@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# .gitignore (добавить в конец)
+Saved/StagedBuilds/
+Saved/StagedBuilds/**/*
+*.pdb
+*.exe
+*.dll
+Binaries/
