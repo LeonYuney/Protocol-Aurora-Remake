@@ -1,12 +1,19 @@
-# Generated — НЕ коммитить
-*.pdt
-*.ucas
-*.utoc
-DerivedDataCache/
-Engine/DerivedDataCache/
-Saved/StagedBuilds/
-Saved/Build/
+# Folders
 Binaries/
-*.pdb
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/Backup/
+Saved/Logs/
+Saved/StagedBuilds/
+Saved/VS/
+
+# Files
 *.exe
 *.dll
+*.pdb
+*.pch
+*.obj
+*.rsp
+*.dep.json
+*.sarif
