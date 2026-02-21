@@ -19,3 +19,17 @@ Content/** filter=lfs diff=lfs merge=lfs -text
 ПротоколАурыремаке/СохранённыеПостроения/Win64/ПротоколАурыремаке.usd filter=lfs diff=lfs merge=lfs -text
 
 * text=auto
+# UE5 дополнительные типы
+*.pdt filter=lfs diff=lfs merge=lfs -text
+*.ucas filter=lfs diff=lfs merge=lfs -text
+*.utoc filter=lfs diff=lfs merge=lfs -text
+
+# Или все DerivedDataCache файлы
+DerivedDataCache/** filter=lfs diff=lfs merge=lfs -text
+Engine/DerivedDataCache/** filter=lfs diff=lfs merge=lfs -text
+
+# Ваши предыдущие правила остаются
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+Content/** filter=lfs diff=lfs merge=lfs -text
