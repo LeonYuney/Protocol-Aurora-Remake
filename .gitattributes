@@ -1,2 +1,21 @@
-Content/** filter=lfs diff=lfs merge=lfs -text
+# UE4/5 LFS patterns
 *.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.upk filter=lfs diff=lfs merge=lfs -text
+*.udk filter=lfs diff=lfs merge=lfs -text
+*.usf filter=lfs diff=lfs merge=lfs -text
+*.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+*.ushaderprecache filter=lfs diff=lfs merge=lfs -text
+*.usfbin filter=lfs diff=lfs merge=lfs -text
+*.ubulkdata filter=lfs diff=lfs merge=lfs -text
+*.uexp filter=lfs diff=lfs merge=lfs -text
+
+# Ваши пути (расширил)
+Content/** filter=lfs diff=lfs merge=lfs -text
+
+# Конкретно ваши файлы
+ПротоколАурыремаке/ShaderАрхив.Глобал.PDX.sN.PDX.sN.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+ПротоколАурыремаке/ShaderАрхив.Глобал.PDX.sN.PDX.sN.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+ПротоколАурыремаке/СохранённыеПостроения/Win64/ПротоколАурыремаке.usd filter=lfs diff=lfs merge=lfs -text
+
+* text=auto
