@@ -1689,4 +1689,3 @@ FPackageName: Skipped package /Game/Player/Model/Шнуры has a valid, mounted
 [2026.02.21-16.39.29:152][694]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2026.02.21-16.39.29:152][694]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.02.21-16.39.29:152][694]LogPakFile: Destroying PakPlatformFile
-[2026.02.21-16.39.29:362][694]Log file closed, 02/21/26 19:39:29
