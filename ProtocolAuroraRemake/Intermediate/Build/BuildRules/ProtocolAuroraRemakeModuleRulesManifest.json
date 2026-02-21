@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Protocol_Aurora_Remaster\\ProjectGitHub\\ProtocolAuroraRemake\\Intermediate\\Source\\ProtocolAuroraRemake.Build.cs",
+		"C:\\Protocol_Aurora_Remaster\\ProjectGitHub\\ProtocolAuroraRemake\\Intermediate\\Source\\ProtocolAuroraRemake.Target.cs",
+		"C:\\Protocol_Aurora_Remaster\\ProjectGitHub\\ProtocolAuroraRemake\\Intermediate\\Source\\ProtocolAuroraRemakeClient.Target.cs",
+		"C:\\Protocol_Aurora_Remaster\\ProjectGitHub\\ProtocolAuroraRemake\\Intermediate\\Source\\ProtocolAuroraRemakeEditor.Target.cs",
+		"C:\\Protocol_Aurora_Remaster\\ProjectGitHub\\ProtocolAuroraRemake\\Intermediate\\Source\\ProtocolAuroraRemakeServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

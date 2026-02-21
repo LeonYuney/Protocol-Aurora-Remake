@@ -1,3 +1,13 @@
-2026/02/01-14:36:06.938 5a3c Reusing MANIFEST C:/Protocol_Aurora_Remaster/Новая папка/ProtocolAuroraRemake/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/01-14:36:06.940 5a3c Recovering log #4
-2026/02/01-14:36:06.941 5a3c Reusing old log C:/Protocol_Aurora_Remaster/Новая папка/ProtocolAuroraRemake/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2026/02/18-13:22:32.157 8584 Reusing MANIFEST C:/Protocol_Aurora_Remaster/ProjectGitHub/ProtocolAuroraRemake/ProtocolAuroraRemake/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/18-13:22:32.168 8584 Recovering log #13
+2026/02/18-13:22:32.168 8584 Level-0 table #15: started
+2026/02/18-13:22:32.172 8584 Level-0 table #15: 70710 bytes OK
+2026/02/18-13:22:32.174 8584 Delete type=0 #13
+2026/02/18-13:22:32.175 5d60 Compacting 4@0 + 0@1 files
+2026/02/18-13:22:32.182 5d60 Generated table #17@0: 3 keys, 23796 bytes
+2026/02/18-13:22:32.182 5d60 Compacted 4@0 + 0@1 files => 23796 bytes
+2026/02/18-13:22:32.183 5d60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/18-13:22:32.183 5d60 Delete type=2 #7
+2026/02/18-13:22:32.184 5d60 Delete type=2 #10
+2026/02/18-13:22:32.184 5d60 Delete type=2 #12
+2026/02/18-13:22:32.184 5d60 Delete type=2 #15
