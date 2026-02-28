@@ -1,19 +1,57 @@
-# Folders
+# ==========================================
+# FOLDERS
+# ==========================================
 Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
-Saved/Backup/
-Saved/Logs/
-Saved/StagedBuilds/
-Saved/VS/
+Saved/
 
-# Files
+# Исключения для папки Saved (чтобы не игнорировать всё подряд, если нужно)
+!Saved/Config/
+!Saved/SourceControl/
+
+# ==========================================
+# FILES
+# ==========================================
+# Executables & Libraries
 *.exe
 *.dll
 *.pdb
 *.pch
 *.obj
+*.lib
+*.a
+*.so
+*.dylib
+*.app
+
+# Build & Config files
 *.rsp
 *.dep.json
 *.sarif
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# UNREAL ENGINE SPECIFIC
+# ==========================================
+# Content Browser cache
+Content/LocalData/
+
+# Shader caches (можно игнорировать, они генерируются)
+Saved/ShaderCache/
+
+# Plugins (игнорируем билды плагинов, но не исходники)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
