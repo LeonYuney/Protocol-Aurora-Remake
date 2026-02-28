@@ -7,7 +7,14 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
-# Исключения для папки Saved (чтобы не игнорировать всё подряд, если нужно)
+# UE5 Staged Builds — обязательно добавить!
+Saved/StagedBuilds/
+Saved/Backup/
+Saved/Logs/
+Saved/VS/
+Saved/Collada/
+
+# Исключения для папки Saved (чтобы не игнорировать всё подряд)
 !Saved/Config/
 !Saved/SourceControl/
 
@@ -25,6 +32,11 @@ Saved/
 *.so
 *.dylib
 *.app
+
+# UE5 specific generated
+*.ucas
+*.utoc
+*.pdt
 
 # Build & Config files
 *.rsp
@@ -55,3 +67,16 @@ Saved/ShaderCache/
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
 Plugins/*/Saved/
+
+# ==========================================
+# ADDITIONAL UE5 (критично)
+# ==========================================
+# Cooked content (generated)
+Saved/Cooked/
+
+# Symbol files
+*.sym
+*.exp
+
+# Backup autosaves
+*.autosave
